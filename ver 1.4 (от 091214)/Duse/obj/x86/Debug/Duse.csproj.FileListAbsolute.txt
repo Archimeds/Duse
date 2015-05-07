@@ -1,0 +1,119 @@
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.exe
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.pdb
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.Form1.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.exe
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.pdb
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Interop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.exe.config
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.StartForm.resources
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.exe.config
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.Form1.resources
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\Duse.StartForm.resources
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\bin\Debug\Duse.exe.config
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\bin\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\bin\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\bin\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.Form1.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.StartForm.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.0 (от 070814)\Duse\obj\x86\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\bin\Debug\Duse.exe.config
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\bin\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\bin\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\bin\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.Form1.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\Duse.StartForm.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.1 (от 110814)\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\bin\Debug\Duse.exe.config
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\bin\Debug\Duse.exe
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\bin\Debug\Duse.pdb
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\bin\Debug\Interop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\Duse.StartForm.resources
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+X:\NET\C#_EXP2010\work_ver\Duse\ver 1.2 (от 150814)\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\bin\Debug\Duse.exe.config
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\bin\Debug\Duse.exe
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\bin\Debug\Duse.pdb
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\bin\Debug\Interop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\bin\Debug\AxInterop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Duse.StartForm.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Duse.exe
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.3 (от 160914)\Duse\obj\x86\Debug\Duse.pdb
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\bin\Debug\Duse.exe.config
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Interop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\AxInterop.MSTSCLib.dll
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Duse.csproj.ResolveComReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Duse.exe
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Duse.pdb
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Duse.Properties.Resources.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\Duse.StartForm.resources
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\work\develop\NET\C#_EXP2010\work_ver\Duse\ver 1.4 (от 091214)\Duse\obj\x86\Debug\GenerateResource.write.1.tlog
